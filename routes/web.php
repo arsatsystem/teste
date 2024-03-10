@@ -1,5 +1,5 @@
 <?php
-
+use App\Http\Controllers\CopyController;
 use Illuminate\Support\Facades\Route;
 
 /*
